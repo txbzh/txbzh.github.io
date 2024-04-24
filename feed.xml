@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Tuixiuboke</title>
-    <link href="https://txbzh.github.io/feed.xml" rel="self" />
-    <link href="https://txbzh.github.io" />
+    <link href="https://blog.tuixiuboke.com/feed.xml" rel="self" />
+    <link href="https://blog.tuixiuboke.com" />
     <updated>2024-04-24T17:23:22+08:00</updated>
     <author>
         <name>tuixiubozhu</name>
     </author>
-    <id>https://txbzh.github.io</id>
+    <id>https://blog.tuixiuboke.com</id>
 
     <entry>
         <title>Hello World</title>
         <author>
             <name>tuixiubozhu</name>
         </author>
-        <link href="https://txbzh.github.io/hello-world/index.html"/>
-        <id>https://txbzh.github.io/hello-world/index.html</id>
+        <link href="https://blog.tuixiuboke.com/hello-world/index.html"/>
+        <id>https://blog.tuixiuboke.com/hello-world/index.html</id>
 
         <updated>2024-04-24T17:23:22+08:00</updated>
             <summary>
