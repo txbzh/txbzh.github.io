@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Tuixiuboke",
+    "description": "",
+    "home_page_url": "https://txbzh.github.io/blog",
+    "feed_url": "https://txbzh.github.io/blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "tuixiubozhu"
+    },
+    "items": [
+        {
+            "id": "https://txbzh.github.io/blog/hello-world.html",
+            "url": "https://txbzh.github.io/blog/hello-world.html",
+            "title": "Hello World",
+            "summary": "Testing out Publii sync with GitHub Repository",
+            "content_html": "\n  <p>\n    Testing out Publii sync with GitHub Repository\n  </p>",
+            "author": {
+                "name": "tuixiubozhu"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-24T17:23:22+08:00",
+            "date_modified": "2024-04-24T17:23:22+08:00"
+        }
+    ]
+}
