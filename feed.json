@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://txbzh.github.io/blog/hello-world.html",
-            "url": "https://txbzh.github.io/blog/hello-world.html",
+            "id": "https://txbzh.github.io/blog/hello-world/index.html",
+            "url": "https://txbzh.github.io/blog/hello-world/index.html",
             "title": "Hello World",
             "summary": "Testing out Publii sync with GitHub Repository",
             "content_html": "\n  <p>\n    Testing out Publii sync with GitHub Repository\n  </p>",
