@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Tuixiuboke",
     "description": "",
-    "home_page_url": "https://blog.tuixiuboke.com/blog",
-    "feed_url": "https://blog.tuixiuboke.com/blog/feed.json",
+    "home_page_url": "https://txbzh.github.io",
+    "feed_url": "https://txbzh.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "tuixiubozhu"
     },
     "items": [
         {
-            "id": "https://blog.tuixiuboke.com/blog/hello-world/index.html",
-            "url": "https://blog.tuixiuboke.com/blog/hello-world/index.html",
+            "id": "https://txbzh.github.io/hello-world/index.html",
+            "url": "https://txbzh.github.io/hello-world/index.html",
             "title": "Hello World",
             "summary": "Testing out Publii sync with GitHub Repository",
             "content_html": "\n  <p>\n    Testing out Publii sync with GitHub Repository\n  </p>",
