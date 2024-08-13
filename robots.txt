@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://txbzh.github.io/sitemap.xml
