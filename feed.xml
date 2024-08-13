@@ -3,12 +3,56 @@
     <title>Tuixiuboke</title>
     <link href="https://tuixiuboke.com/feed.xml" rel="self" />
     <link href="https://tuixiuboke.com" />
-    <updated>2024-04-24T17:23:22+08:00</updated>
+    <updated>2024-08-13T11:20:14+08:00</updated>
     <author>
         <name>tuixiubozhu</name>
     </author>
     <id>https://tuixiuboke.com</id>
 
+    <entry>
+        <title>Hosting this website on Github Pages</title>
+        <author>
+            <name>tuixiubozhu</name>
+        </author>
+        <link href="https://tuixiuboke.com/hosting-this-website-on-github-pages/index.html"/>
+        <id>https://tuixiuboke.com/hosting-this-website-on-github-pages/index.html</id>
+
+        <updated>2024-08-13T11:20:14+08:00</updated>
+            <summary>
+                <![CDATA[
+                    I am please to report that this website is now being hosted on Github Pages. The content is being managed using Publii, a fantastic desktop&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I am please to report that this website is now being hosted on Github Pages. The content is being managed using Publii, a fantastic desktop based static site generator.</p>
+<p>Testing image upload:</p>
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://tuixiuboke.com/media/posts/2/3891872339_ultrarealistic_landscape_photo_of_a_bamboo_forest__sunrise__cinematic_lighting__award_winning_photo_.png" alt="A random AI generated image" width="704" height="512" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://tuixiuboke.com/media/posts/2/responsive/3891872339_ultrarealistic_landscape_photo_of_a_bamboo_forest__sunrise__cinematic_lighting__award_winning_photo_-xs.png 300w ,https://tuixiuboke.com/media/posts/2/responsive/3891872339_ultrarealistic_landscape_photo_of_a_bamboo_forest__sunrise__cinematic_lighting__award_winning_photo_-sm.png 480w ,https://tuixiuboke.com/media/posts/2/responsive/3891872339_ultrarealistic_landscape_photo_of_a_bamboo_forest__sunrise__cinematic_lighting__award_winning_photo_-md.png 768w ,https://tuixiuboke.com/media/posts/2/responsive/3891872339_ultrarealistic_landscape_photo_of_a_bamboo_forest__sunrise__cinematic_lighting__award_winning_photo_-lg.png 1024w">
+<figcaption >A random AI generated image</figcaption>
+</figure>
+<p>Table:</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3007%;">Item</td>
+<td style="width: 33.3007%;">Description</td>
+<td style="width: 33.3037%;">Remarks</td>
+</tr>
+<tr>
+<td style="width: 33.3007%;">1.</td>
+<td style="width: 33.3007%;">Test 1</td>
+<td style="width: 33.3037%;">Success</td>
+</tr>
+<tr>
+<td style="width: 33.3007%;">2.</td>
+<td style="width: 33.3007%;">Test 2</td>
+<td style="width: 33.3037%;">Also a success</td>
+</tr>
+</tbody>
+</table>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Hello World</title>
         <author>

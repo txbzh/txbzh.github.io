@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://tuixiuboke.com/hosting-this-website-on-github-pages/index.html",
+            "url": "https://tuixiuboke.com/hosting-this-website-on-github-pages/index.html",
+            "title": "Hosting this website on Github Pages",
+            "summary": "I am please to report that this website is now being hosted on Github Pages. The content is being managed using Publii, a fantastic desktop&hellip;",
+            "content_html": "<p>I am please to report that this website is now being hosted on Github Pages. The content is being managed using Publii, a fantastic desktop based static site generator.</p>\n<p>Testing image upload:</p>\n<figure class=\"post__image post__image--center\" ><img loading=\"lazy\" src=\"https://tuixiuboke.com/media/posts/2/3891872339_ultrarealistic_landscape_photo_of_a_bamboo_forest__sunrise__cinematic_lighting__award_winning_photo_.png\" alt=\"A random AI generated image\" width=\"704\" height=\"512\" sizes=\"(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)\" srcset=\"https://tuixiuboke.com/media/posts/2/responsive/3891872339_ultrarealistic_landscape_photo_of_a_bamboo_forest__sunrise__cinematic_lighting__award_winning_photo_-xs.png 300w ,https://tuixiuboke.com/media/posts/2/responsive/3891872339_ultrarealistic_landscape_photo_of_a_bamboo_forest__sunrise__cinematic_lighting__award_winning_photo_-sm.png 480w ,https://tuixiuboke.com/media/posts/2/responsive/3891872339_ultrarealistic_landscape_photo_of_a_bamboo_forest__sunrise__cinematic_lighting__award_winning_photo_-md.png 768w ,https://tuixiuboke.com/media/posts/2/responsive/3891872339_ultrarealistic_landscape_photo_of_a_bamboo_forest__sunrise__cinematic_lighting__award_winning_photo_-lg.png 1024w\">\n<figcaption >A random AI generated image</figcaption>\n</figure>\n<p>Table:</p>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 33.3007%;\">Item</td>\n<td style=\"width: 33.3007%;\">Description</td>\n<td style=\"width: 33.3037%;\">Remarks</td>\n</tr>\n<tr>\n<td style=\"width: 33.3007%;\">1.</td>\n<td style=\"width: 33.3007%;\">Test 1</td>\n<td style=\"width: 33.3037%;\">Success</td>\n</tr>\n<tr>\n<td style=\"width: 33.3007%;\">2.</td>\n<td style=\"width: 33.3007%;\">Test 2</td>\n<td style=\"width: 33.3037%;\">Also a success</td>\n</tr>\n</tbody>\n</table>",
+            "author": {
+                "name": "tuixiubozhu"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-08-13T11:20:14+08:00",
+            "date_modified": "2024-08-13T11:20:14+08:00"
+        },
+        {
             "id": "https://tuixiuboke.com/hello-world/index.html",
             "url": "https://tuixiuboke.com/hello-world/index.html",
             "title": "Hello World",
