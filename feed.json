@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://tuixiuboke.com/checking-git-repository-deployment-method/index.html",
+            "url": "https://tuixiuboke.com/checking-git-repository-deployment-method/index.html",
+            "title": "Checking Git Repository Deployment Method",
+            "summary": "Let's see if this works. Test connection does not return a result.",
+            "content_html": "<p>Let's see if this works.</p>\n<p>Test connection does not return a result.</p>",
+            "author": {
+                "name": "tuixiubozhu"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-08-13T15:00:35+08:00",
+            "date_modified": "2024-08-13T15:00:35+08:00"
+        },
+        {
             "id": "https://tuixiuboke.com/hosting-this-website-on-github-pages/index.html",
             "url": "https://tuixiuboke.com/hosting-this-website-on-github-pages/index.html",
             "title": "Hosting this website on Github Pages",

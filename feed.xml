@@ -3,12 +3,33 @@
     <title>Tuixiuboke</title>
     <link href="https://tuixiuboke.com/feed.xml" rel="self" />
     <link href="https://tuixiuboke.com" />
-    <updated>2024-08-13T11:20:14+08:00</updated>
+    <updated>2024-08-13T15:00:35+08:00</updated>
     <author>
         <name>tuixiubozhu</name>
     </author>
     <id>https://tuixiuboke.com</id>
 
+    <entry>
+        <title>Checking Git Repository Deployment Method</title>
+        <author>
+            <name>tuixiubozhu</name>
+        </author>
+        <link href="https://tuixiuboke.com/checking-git-repository-deployment-method/index.html"/>
+        <id>https://tuixiuboke.com/checking-git-repository-deployment-method/index.html</id>
+
+        <updated>2024-08-13T15:00:35+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Let's see if this works. Test connection does not return a result.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Let's see if this works.</p>
+<p>Test connection does not return a result.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Hosting this website on Github Pages</title>
         <author>
